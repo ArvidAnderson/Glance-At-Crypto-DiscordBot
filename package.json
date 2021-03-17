@@ -1,0 +1,25 @@
+{
+  "name": "glance-at-crypto-discordbot",
+  "version": "1.0.0",
+  "description": "Discord BOT to fetch the crypto prices",
+  "main": "./src/bot.js",
+  "scripts": {
+    "test": "start",
+    "start": "node ./src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArvidAnderson/Glance-At-Crypto-DiscordBot.git"
+  },
+  "author": "Arvid Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArvidAnderson/Glance-At-Crypto-DiscordBot/issues"
+  },
+  "homepage": "https://github.com/ArvidAnderson/Glance-At-Crypto-DiscordBot#readme",
+  "dependencies": {
+    "crypto-price": "0.0.6",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
