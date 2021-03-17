@@ -1,6 +1,7 @@
 ## Glanze At Crypto Discord BOT
 
 Discord bot to fetch the same cryptos as the Glance At Crypto electron app can do.
+Powerd by [discord.js](https://discord.js.org/#/)
 
 ## How to setup
 
